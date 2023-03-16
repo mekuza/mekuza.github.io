@@ -1,0 +1,82 @@
+/** navbar**/
+.navbar {
+    background-color: rgb(46, 209, 86);
+}
+
+/** navbar brand **/
+.navbar-brand {
+font-size: 30px;
+font-family: 'Lora', serif;
+text-shadow: 1px 1px 1px #222;
+color: green;
+height: 40px;
+font-size: 4vw;
+}
+.navbar-default .navbar-brand{
+color: green;
+}
+.navbar-header {
+    font-size: 30px;
+    font-size: 4vw;
+}
+
+body {
+    font-size: 16px;
+    background-color: white;
+    font-family: 'oxygen, sans serif';
+}
+
+.glyphicon{
+	font-size: 30px;
+	color: rgb(212, 45, 53);
+     
+}
+
+/** glyphicon list **/
+#myNavbar ul li a {
+	color: rgb(212, 45, 53);
+    text-align: center;
+    font-size: 1.2em;
+}
+#myNavbar ul li a span {
+    font-size: 1em;
+    margin-right: 5px;
+}
+
+
+/*** Our Menu ***/
+.text-center {
+	font-size: 50px;
+    font-family: 'Lora', serif;
+    color:rgb(84, 57, 202);
+}
+
+/** chicken **/
+h2 {
+	text-align: center;
+    color: red;
+}
+
+
+.grid-container-1 {
+    margin: 0px 10px 0px 10px;
+    float: left;
+    margin-left: 10px;
+}   
+.main-content-1 {
+   background-color: rgb(68, 145, 87);
+   padding: 0px 10px 10px 10px;
+   margin: 0px 20px 20px 20px;
+}
+.main-content-2 {
+    background-color: rgb(68, 145, 87);
+    padding: 0px 10px 10px 10px;
+    margin: 0px 20px 20px 20px;
+}
+.main-content-3 {
+    background-color: rgb(68, 145, 87);
+    padding: 0px 10px 10px 10px;
+    margin: 0px 20px 20px 20px;
+}
+
+
